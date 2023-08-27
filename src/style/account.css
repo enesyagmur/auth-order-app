@@ -1,0 +1,24 @@
+.account {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.account-main {
+  width: 80%;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 150px;
+}
+.account-main input {
+  width: 60%;
+  height: 40px;
+}
+.account-main button {
+  width: 20%;
+  height: 30px;
+}
